@@ -1,0 +1,5 @@
+{
+  "name": "TradeScope",
+  "description": "An AI-powered market chart analyzer that predicts future market value and provides buy/sell recommendations based on your uploaded chart images.",
+  "requestFramePermissions": []
+}
